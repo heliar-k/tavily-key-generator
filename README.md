@@ -13,6 +13,9 @@
 
 目标很直接：把 Tavily / Auth0 / Cloudflare 这条注册链路收口成一个真正可用、可并发、可后台运行的一键启动工具。
 
+Cloudflare 域名邮箱从 0 到 1 的完整配置说明见：
+[Cloudflare 邮件设置详解](./docs/Cloudflare%E9%82%AE%E4%BB%B6%E8%AE%BE%E7%BD%AE%E8%AF%A6%E8%A7%A3.md)
+
 ## Features
 
 - 单启动台模式，不需要手动拼命令参数
